@@ -1,16 +1,42 @@
-# cashier_app
+# izo-cashier 🧾
 
-Cashier App with POS APP.
+**izo-cashier** is a powerful Point of Sale (POS) application designed to work seamlessly with the [IZO](https://github.com/naifalmowe/IZO.git). Built for simplicity and performance,
+it enables quick and efficient sales operations for various types of businesses such as:
 
-## Getting Started
+- Retail stores
+- Mini-markets and groceries
+- Pharmacies
+- Barbershops
+- Restaurants and Cafés
 
-This project is a starting point for a Flutter application.
+## 🌐 Platform Support
 
-A few resources to get you started if this is your first Flutter project:
+| Platform | Support |
+|----------|---------|
+| 🖥 Windows | ✅ |
+| 📱 Android | ✅ |
+| 🍏 iOS | ❌ |
+| 🐧 Linux | ❌ |
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+> 💡 Note: The app is available on Microsoft Store  
+> 👉 [Download on Microsoft Store](https://apps.microsoft.com/detail/9njthwv08b3w?hl=en-US&gl=US)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Features
+
+- ✅ Seamless integration with IZO accounting
+- 🧾 Fast and responsive POS interface
+- 📦 Product scanning and quick search
+- 📊 Real-time sales tracking
+- 🖨️ Printer-ready receipts
+- 🧑‍💼 Multi-user and cashier support
+
+## 🔧 Installation
+
+Download from [Microsoft Store](https://apps.microsoft.com/detail/9njthwv08b3w?hl=en-US&gl=US)l.
+
+## 📩 Support
+
+For help, bug reports, or feature requests, please contact:  
+📧 naif.almowel@gmail.com
+
+---
