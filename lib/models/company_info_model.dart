@@ -1,0 +1,59 @@
+import 'dart:typed_data';
+
+class CompanyInfo{
+  CompanyInfo({
+    required this.id,
+    required this.ownerName,
+    required this.companyName,
+    required this.address,
+    required this.number,
+    required this.additionalNumber,
+    required this.email,
+    required this.webSite,
+    required this.showWeb,
+    required this.anotherAddress,
+    required this.image,
+    required this.locationUrl,
+    required this.showLocation,
+    required this.facebookUrl,
+    required this.showFace,
+    required this.instagramUrl,
+    required this.showInstagram,
+    required this.twitterUrl,
+    required this.snapShatUrl,
+    required this.youtubeUrl,
+    required this.tiktokUrl,
+    required this.showTiktok,
+    required this.showSnapShat,
+    required this.showTwitter,
+    required this.showYoutube,
+    required this.companyImage,
+
+  });
+ int? id;
+ String? ownerName;
+ String? companyName;
+ String? address;
+ String?  number;
+ String?  additionalNumber;
+ String?  email;
+ String?  webSite;
+ bool? showWeb;
+ String? anotherAddress;
+ String? image;
+ String?  locationUrl;
+ bool? showLocation;
+ String? facebookUrl;
+ bool? showFace;
+ String? instagramUrl;
+ bool? showInstagram;
+ String? twitterUrl;
+ String? snapShatUrl;
+ String? youtubeUrl;
+ String? tiktokUrl;
+ bool? showTiktok;
+ bool? showSnapShat;
+ bool? showTwitter;
+ bool? showYoutube;
+ Uint8List? companyImage;
+}
