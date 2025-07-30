@@ -1,6 +1,6 @@
 # izo-cashier 🧾
 
-**izo-cashier** is a powerful Point of Sale (POS) application designed to work seamlessly with the [IZO](https://github.com/naifalmowe/IZO). Built for simplicity and performance,
+**izo-cashier** is a powerful Point of Sale (POS) application designed to work seamlessly with the [IZO](https://github.com/naifalmowel/IZO). Built for simplicity and performance,
 it enables quick and efficient sales operations for various types of businesses such as:
 
 - Retail stores
